@@ -8,7 +8,6 @@
 ```bash
 $ whoami
 Ayush Agarwal
-AI Intern @ Matter Vision Mechanics
 Computer Vision + Hackathon Builder
 
 $ ls projects/
