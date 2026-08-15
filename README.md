@@ -9,6 +9,7 @@
 $ whoami
 Ayush Agarwal
 Computer Vision + Hackathon Builder
+Learning 2D Game Development
 
 $ ls projects/
 MuzzleID/      # biometric cattle ID — YOLOv8 + ArcFace + FAISS
